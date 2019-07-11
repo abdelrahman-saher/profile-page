@@ -1,7 +1,7 @@
 
 
 # profile page with some animation
-=======
+
 
 A new Flutter project.
 
